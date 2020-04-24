@@ -2,6 +2,7 @@
  * Manda a llamar model y view cuando se necesite.
  * Programa para implementar codificación de Hamming
  * utilizando bitwise.
+
 */
 
 #include <stdio.h>
